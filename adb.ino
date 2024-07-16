@@ -14,8 +14,8 @@ int dist_range[2] = { 10, 20 };  // the distance range where the operation shoul
 #include <BlynkSimpleEsp8266.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Alchemist";          // wifi id
-const char* password = "Hlobipin@1234";  // wifi password
+const char* ssid = "your ssid";          // wifi id
+const char* password = "your password";  // wifi password
 int automatic = 1;                       // it is connected with touch. it can be either 0 or 1
 int i = 0;                               // for looping statements
 
