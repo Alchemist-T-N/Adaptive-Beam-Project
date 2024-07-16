@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3zJdFCC9T"
-#define BLYNK_TEMPLATE_NAME "ADB"
-#define BLYNK_AUTH_TOKEN "OJU7YlPrVbE8qGx7T9-cb1urT4gxlk_O"
+#define BLYNK_TEMPLATE_ID "your template id"
+#define BLYNK_TEMPLATE_NAME "your template name"
+#define BLYNK_AUTH_TOKEN "your-auth-token"
 #define BLYNK_FIRMWARE_VERSION "0.1.0"
 #define BLYNK_PRINT Serial
 
